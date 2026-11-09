@@ -1,11 +1,10 @@
 # Programação para Dispositivos Móveis — IFPI
 
-Repositório de atividades da disciplina, organizadas em pastas separadas.
+Repositório das atividades da disciplina, organizadas em pastas separadas.
 
 ## Atividades
 
 - [Atividade 01 — Mapa IFPI com OpenStreetMap e geolocalização](atividade-01-mapa-ifpi/README.md)
+- [Atividade 02 — Oito exercícios básicos de Dart](atividade-02-exercicios-dart/README.md)
 
-As próximas atividades poderão ser incluídas em pastas como `atividade-02`, `atividade-03` etc.
-
-Para executar a primeira atividade, entre na pasta `atividade-01-mapa-ifpi` e siga o README dela.
+Cada atividade possui seus próprios arquivos e instruções de execução. As próximas atividades serão adicionadas em pastas numeradas.
