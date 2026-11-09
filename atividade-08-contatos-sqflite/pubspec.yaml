@@ -1,0 +1,13 @@
+name: contatos_ifpi
+description: CRUD de contatos com Sqflite.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.3.3
+  path: ^1.9.0
+flutter:
+  uses-material-design: true
