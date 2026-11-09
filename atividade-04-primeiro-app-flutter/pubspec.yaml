@@ -1,0 +1,11 @@
+name: primeiro_app_ifpi
+description: Primeiro app Flutter da atividade IFPI.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true
