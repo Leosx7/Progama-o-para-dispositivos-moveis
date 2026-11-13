@@ -2,6 +2,10 @@
 
 Repositório com atividades separadas por pasta. Cada atividade tem códigos simples e um README explicando como executar e apresentar ao professor.
 
+## Material de revisão
+
+- [Guia de estudos para a atividade prática — Dart, Flutter, mapas e SQLite](guia-de-estudos/README.md)
+
 ## Atividades
 
 1. [Mapa IFPI, OpenStreetMap e geolocalização](atividade-01-mapa-ifpi/README.md)
