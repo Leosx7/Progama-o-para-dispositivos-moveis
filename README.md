@@ -30,3 +30,5 @@ Os projetos são exemplos didáticos e **não foram compilados neste ambiente**.
 ## Três aplicativos para a prova prática
 
 - [App 1 — Lista de Tarefas, App 2 — Calculadora de Médias e App 3 — Navegação entre telas (códigos completos + guias)](apps-prova-pratica/README.md)
+
+- [App da atividade prática — Food Explorer (cards e menu inferior)](apps-prova-pratica/04-guia-gastronomico/README.md)
