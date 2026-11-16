@@ -1,0 +1,18 @@
+name: navegacao_telas_prova
+description: Aplicativo Flutter simples para estudar para a prova pratica.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
