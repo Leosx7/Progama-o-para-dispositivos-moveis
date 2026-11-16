@@ -1,0 +1,18 @@
+name: food_explorer_prova
+description: App Flutter com cards e barra de navegacao para atividade pratica.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
