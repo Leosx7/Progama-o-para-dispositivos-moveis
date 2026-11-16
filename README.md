@@ -26,3 +26,7 @@ Para aplicativos Flutter, siga os comandos descritos no README da pasta. **Cada 
 Os slides solicitam capturas de tela e PDFs de entrega nas atividades de combustível e SQLite. As capturas devem ser feitas após executar os aplicativos no seu dispositivo; não foram geradas capturas fictícias.
 
 Os projetos são exemplos didáticos e **não foram compilados neste ambiente**. Verifique a execução antes da entrega.
+
+## Três aplicativos para a prova prática
+
+- [App 1 — Lista de Tarefas, App 2 — Calculadora de Médias e App 3 — Navegação entre telas (códigos completos + guias)](apps-prova-pratica/README.md)
