@@ -1,12 +1,15 @@
-# Três aplicativos Flutter para treinar a prova prática
+# Aplicativos Flutter para treinar a prova prática
 
-Três projetos **independentes**, construídos com os conteúdos vistos nas aulas de Programação para Dispositivos Móveis. Não são cópias de enunciados do professor; são **ideias de aplicativos originais para praticar**.
+Três projetos iniciais **independentes**, construídos com os conteúdos vistos nas aulas de Programação para Dispositivos Móveis. Não são cópias de enunciados do professor; são **ideias de aplicativos originais para praticar**.
 
 | Aplicativo | Conceitos usados | Código para copiar |
 |---|---|---|
 | [1. Minha Lista de Tarefas](01-lista-tarefas/README.md) | `TextField`, `ListView.builder`, `CheckboxListTile`, `setState` | [main.dart](01-lista-tarefas/lib/main.dart) |
 | [2. Calculadora de Médias](02-calculadora-medias/README.md) | dois `TextField`, `tryParse`, `if`, botão, `setState` | [main.dart](02-calculadora-medias/lib/main.dart) |
 | [3. Meu Guia de Estudos](03-navegacao-telas/README.md) | `StatelessWidget`, `ListTile`, duas telas, `Navigator.push/pop` | [main.dart](03-navegacao-telas/lib/main.dart) |
+
+
+> **Atividade prática recebida em 16/11/2026:** [App 4 — Food Explorer (seis cards e BottomNavigationBar)](04-guia-gastronomico/README.md) — [copiar main.dart](04-guia-gastronomico/lib/main.dart).
 
 ## Como rodar — do zero
 
